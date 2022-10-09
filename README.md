@@ -1,4 +1,4 @@
-![deploy workflow](https://github.com/github/docs/actions/workflows/cd.yml/badge.svg)
+[![deploy workflow](https://github.com/agussudarmanto/nuxtjs-tailwind-blog/workflows/cd/badge.svg)](https://github.com/agussudarmanto/nuxtjs-tailwind-blog/actions?query=workflow%3Acd)
 
 # NuxtJs Tailwind Blog
 
