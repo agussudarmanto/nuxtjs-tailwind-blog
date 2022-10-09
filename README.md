@@ -1,3 +1,5 @@
+![deploy workflow](https://github.com/github/docs/actions/workflows/cd.yml/badge.svg)
+
 # NuxtJs Tailwind Blog
 
 This is a nuxtjs, Tailwind CSS blogging template. Its supported Markdown for blog
