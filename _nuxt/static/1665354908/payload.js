@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{_img:{"/nuxtjs-tailwind-blog/_ipx/_/author.png":"\u002Fnuxtjs-tailwind-blog\u002F_nuxt\u002Fimage\u002Fa13d1d.png"}}],fetch:{},mutations:void 0});
